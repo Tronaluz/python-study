@@ -49,13 +49,13 @@
 # print(resultado) 
 
 
-def maior_numero(lista_num):
-    lista_num.sort()
-    lista_num.reverse()
-    maior_num = lista_num[0]
-    return maior_num
+# def maior_numero(lista_num):
+#     lista_num.sort()
+#     lista_num.reverse()
+#     maior_num = lista_num[0]
+#     return maior_num
 
 
-resultado -  maior_num({10},  {20}, {30}, {40}, {50})
+# resultado -  maior_num({10},  {20}, {30}, {40}, {50})
 
-print(resultado)
+# print(resultado)
